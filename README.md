@@ -64,4 +64,4 @@ _Ph.D. Candidate & Research Engineer – Smart Cities Optimization, Metaheuristi
 ---
 
 ## 📎 Full CV
-📄 [Download my CV (PDF)](./cv_chaima.pdf)  
+📄 [Download my CV (PDF)]("C:\Users\chaim\Downloads\cv_chaima.pdf")  
